@@ -26,8 +26,3 @@ if __name__ == '__main__':
     print('start')
     main()
     print('~~~end~~~')
-
-
-class module:
-    def __init__(self):
-        self.
