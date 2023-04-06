@@ -6,7 +6,7 @@ import pandas as pd
 
 def main():
 
-    table = data_loader('../archive (1)/BrentOilPrices.csv')
+    table = data_loader('archive (1)/BrentOilPrices.csv')
 
     x = index_change(table, 'Date', 'Price')
 
